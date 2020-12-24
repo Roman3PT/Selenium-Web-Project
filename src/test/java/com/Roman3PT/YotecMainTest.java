@@ -10,8 +10,4 @@ public class YotecMainTest implements IService {
     public void mainPageVisible() {
         Assert.assertTrue(mainPage.getMainSlider().isDisplayed());
     }
-
-    @Test
-    public void
-
 }
