@@ -1,13 +1,17 @@
 package com.Roman3PT;
 
-import org.junit.Test;
+import com.Roman3PT.service.IService;
+import org.junit.Assert;
+import org.testng.annotations.Test;
 
-import static org.junit.Assert.assertTrue;
-
-public class AppTest {
+public class YotecMainTest implements IService {
 
     @Test
-    public void shouldAnswerWithTrue() {
-        assertTrue(true);
+    public void mainPageVisible() {
+        Assert.assertTrue(mainPage.getMainSlider().isDisplayed());
     }
+
+    @Test
+    public void
+
 }
