@@ -2,6 +2,7 @@ package com.Roman3PT;
 
 import com.Roman3PT.assertion.CustomAssertion;
 import com.Roman3PT.enums.LocationType;
+import com.Roman3PT.model.Person;
 import com.Roman3PT.page.*;
 import org.testng.Assert;
 import org.testng.annotations.Test;
@@ -12,50 +13,42 @@ import static com.Roman3PT.page.TemplatePage.*;
 
 public class YotecMainTest extends AbstractTest {
 
-    @Test
+    @Test(priority = 0)
     public void mainPageVisible() {
         Assert.assertTrue(new MainPage().getMainSlider().isDisplayed());
     }
 
-    @Test
+    @Test(priority = 1)
     public void checkNavigationMenu() {
         goToPage(MANUFACTURING_SAFETY);
-        ManufacturingSafetyPage safetyPage = new ManufacturingSafetyPage();
-        CustomAssertion.assertURL(MANUFACTURING_SAFETY.getStr(), safetyPage.getCurrentURL());
+        CustomAssertion.assertURL(MANUFACTURING_SAFETY.getStr(), getCurrentURL());
         Assert.assertEquals(service.getTitle(), getLastBreadCrumb().getText());
 
         goToPage(FUTURE_FOCUS);
-        FutureFocusPage focusPage = new FutureFocusPage();
-        CustomAssertion.assertURL(FUTURE_FOCUS.getStr(), focusPage.getCurrentURL());
+        CustomAssertion.assertURL(FUTURE_FOCUS.getStr(), getCurrentURL());
         Assert.assertEquals(service.getTitle(), getLastBreadCrumb().getText());
 
         goToPage(CORROSIVES);
-        CorrosivesPage corrosivesPage = new CorrosivesPage();
-        CustomAssertion.assertURL(CORROSIVES.getStr(), corrosivesPage.getCurrentURL());
+        CustomAssertion.assertURL(CORROSIVES.getStr(), getCurrentURL());
         Assert.assertEquals(service.getTitle(), getLastBreadCrumb().getText());
 
         goToPage(PARTS_SERVICE);
-        PartsServicePage partsServicePage = new PartsServicePage();
-        CustomAssertion.assertURL(PARTS_SERVICE.getStr(), partsServicePage.getCurrentURL());
+        CustomAssertion.assertURL(PARTS_SERVICE.getStr(), getCurrentURL());
         Assert.assertEquals(service.getTitle(), getLastBreadCrumb().getText());
         goHome();
 
         goToPage(MY_HR);
-        BenefitsPage benefitsPage = new BenefitsPage();
-        CustomAssertion.assertURL(MY_HR.getStr(), benefitsPage.getCurrentURL());
+        CustomAssertion.assertURL(MY_HR.getStr(), getCurrentURL());
         Assert.assertEquals(service.getTitle(), getLastBreadCrumb().getText());
 
         goToPage(TIMELINE);
-        TimeLinePage timeLinePage = new TimeLinePage();
-        CustomAssertion.assertURL(TIMELINE.getStr(), timeLinePage.getCurrentURL());
+        CustomAssertion.assertURL(TIMELINE.getStr(), getCurrentURL());
 
         goToPage(DEALER);
-        DealerPage dealerPage = new DealerPage();
-        CustomAssertion.assertURL(DEALER.getStr(), dealerPage.getCurrentURL());
-        goHome();
+        CustomAssertion.assertURL(DEALER.getStr(), getCurrentURL());
     }
 
-    @Test(dataProvider = "salesCountry", dataProviderClass = DealerLocationProvider.class)
+    @Test(priority = 2, dataProvider = "salesCountry", dataProviderClass = DealerLocationProvider.class)
     public void dealerLocation(String companyName, LocationType[] types, Integer count) {
         goToPage(DEALER);
         DealerLocationPage dealerLocationPage = new DealerLocationPage();
@@ -64,5 +57,12 @@ public class YotecMainTest extends AbstractTest {
             dealerLocationPage.checkLocationType(type);
         }
         Assert.assertEquals(dealerLocationPage.getCountCompany(), count);
+    }
+
+    @Test(priority = 3, dataProvider = "contactUs", dataProviderClass = DealerLocationProvider.class)
+    public void contactUsForm(Person person) {
+        goToPage(MANUFACTURING_SAFETY);
+        contactUs(person);
+        Assert.assertTrue(getSuccessMessage().isDisplayed());
     }
 }

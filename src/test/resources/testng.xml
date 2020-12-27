@@ -1,12 +1,13 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
 <suite name="YotecBaseTests" verbose="1">
-    <test name="BaseTests">
+    <test name="BaseTests" preserve-order="true">
         <classes>
             <class name="com.Roman3PT.YotecMainTest">
                 <methods>
                     <include name="mainPageVisible"/>
                     <include name="checkNavigationMenu"/>
                     <include name="dealerLocation"/>
+                    <include name="contactUsForm"/>
                 </methods>
             </class>
         </classes>

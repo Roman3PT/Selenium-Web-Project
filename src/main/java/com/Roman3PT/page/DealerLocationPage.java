@@ -3,6 +3,10 @@ package com.Roman3PT.page;
 import com.Roman3PT.enums.LocationType;
 import org.apache.log4j.Logger;
 
+/**
+ * Its class of Dealer page
+ * This class performs a selection to select a dealer by parameters
+ * */
 public class DealerLocationPage extends TemplatePage {
 
     private static final Logger logger = Logger.getLogger(DealerLocationPage.class);
@@ -23,6 +27,6 @@ public class DealerLocationPage extends TemplatePage {
     }
 
     public Integer getCountCompany() {
-        return findElementsByCssLocated(listCompany).size();
+        return findElementsByCssVisibility(listCompany).size();
     }
 }

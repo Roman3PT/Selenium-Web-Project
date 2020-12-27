@@ -70,3 +70,432 @@
 2020-12-27 20:41:07 INFO  DealerLocationPage:21 - check type: Warranty
 2020-12-27 20:41:12 INFO  DriverWebService:51 - Destroy driver...
 2020-12-27 20:41:12 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:23:17 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:23:19 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:23:22 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:23:22 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:23:30 INFO  TemplatePage:59 - Go to item: manufacturing-safety
+2020-12-27 21:23:39 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:23:39 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:24:55 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:24:57 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:25:04 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:25:04 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:25:09 INFO  TemplatePage:59 - Go to item: manufacturing-safety
+2020-12-27 21:25:19 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:25:19 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:27:25 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:27:27 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:27:33 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:27:33 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:27:47 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:27:49 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:27:49 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:28:11 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:28:13 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:28:17 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:28:17 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:28:21 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:28:21 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 21:28:22 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 21:28:22 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 21:28:24 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 21:28:24 INFO  CorrosivesPage:10 - Page is initialized!
+2020-12-27 21:28:25 INFO  TemplatePage:60 - Go to item: parts-service
+2020-12-27 21:28:25 INFO  PartsServicePage:10 - Page is initialized!
+2020-12-27 21:28:28 INFO  TemplatePage:60 - Go to item: my-hr
+2020-12-27 21:28:28 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 21:28:34 INFO  TemplatePage:60 - Go to item: timeline
+2020-12-27 21:28:34 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 21:28:51 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:28:51 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 21:28:53 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:28:56 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:29:00 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 21:29:00 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 21:29:00 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 21:29:00 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 21:29:08 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:29:08 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:29:33 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:29:35 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:29:42 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:29:42 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:29:48 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:29:48 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 21:29:49 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 21:29:49 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 21:29:51 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 21:29:51 INFO  CorrosivesPage:10 - Page is initialized!
+2020-12-27 21:29:52 INFO  TemplatePage:60 - Go to item: parts-service
+2020-12-27 21:29:52 INFO  PartsServicePage:10 - Page is initialized!
+2020-12-27 21:29:55 INFO  TemplatePage:60 - Go to item: my-hr
+2020-12-27 21:29:55 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 21:30:05 INFO  TemplatePage:60 - Go to item: timeline
+2020-12-27 21:30:05 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 21:30:10 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:30:10 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 21:30:12 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:30:15 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:30:15 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 21:30:15 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 21:30:15 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 21:30:15 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 21:30:23 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:30:23 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:31:52 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:31:55 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:32:00 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:32:00 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:32:06 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:32:06 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 21:32:08 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 21:32:08 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 21:32:09 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 21:32:09 INFO  CorrosivesPage:10 - Page is initialized!
+2020-12-27 21:32:11 INFO  TemplatePage:60 - Go to item: parts-service
+2020-12-27 21:32:11 INFO  PartsServicePage:10 - Page is initialized!
+2020-12-27 21:32:13 INFO  TemplatePage:60 - Go to item: my-hr
+2020-12-27 21:32:13 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 21:32:22 INFO  TemplatePage:60 - Go to item: timeline
+2020-12-27 21:32:22 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 21:32:47 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:32:47 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 21:32:49 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:32:52 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:32:52 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 21:32:52 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 21:32:52 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 21:32:52 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 21:33:00 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:33:00 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:33:51 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:33:53 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:33:58 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:33:58 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:33:59 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:33:59 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 21:34:14 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:34:17 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:34:17 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 21:34:17 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 21:34:18 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 21:34:18 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 21:34:26 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:34:26 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:38:02 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:38:04 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:38:11 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:38:11 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:38:15 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:38:15 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 21:38:16 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 21:38:16 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 21:38:18 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 21:38:18 INFO  CorrosivesPage:10 - Page is initialized!
+2020-12-27 21:38:19 INFO  TemplatePage:60 - Go to item: parts-service
+2020-12-27 21:38:19 INFO  PartsServicePage:10 - Page is initialized!
+2020-12-27 21:38:21 INFO  TemplatePage:60 - Go to item: my-hr
+2020-12-27 21:38:21 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 21:38:28 INFO  TemplatePage:60 - Go to item: timeline
+2020-12-27 21:38:28 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 21:38:52 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:38:52 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 21:38:54 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:39:00 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:39:00 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 21:39:00 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 21:39:00 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 21:39:00 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 21:39:08 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:39:08 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:40:33 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:40:35 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:40:41 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:40:41 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:40:52 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:40:52 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 21:40:53 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 21:40:53 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 21:40:55 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 21:40:55 INFO  CorrosivesPage:10 - Page is initialized!
+2020-12-27 21:40:56 INFO  TemplatePage:60 - Go to item: parts-service
+2020-12-27 21:40:56 INFO  PartsServicePage:10 - Page is initialized!
+2020-12-27 21:40:58 INFO  TemplatePage:60 - Go to item: my-hr
+2020-12-27 21:40:58 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 21:41:07 INFO  TemplatePage:60 - Go to item: timeline
+2020-12-27 21:41:07 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 21:41:31 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:41:31 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 21:41:32 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:41:35 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:41:35 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 21:41:35 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 21:41:36 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 21:41:36 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 21:41:44 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:41:44 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:45:56 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:45:59 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:46:06 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:46:06 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:46:08 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:46:08 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 21:46:09 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 21:46:09 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 21:46:10 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 21:46:10 INFO  CorrosivesPage:10 - Page is initialized!
+2020-12-27 21:46:11 INFO  TemplatePage:60 - Go to item: parts-service
+2020-12-27 21:46:11 INFO  PartsServicePage:10 - Page is initialized!
+2020-12-27 21:46:13 INFO  TemplatePage:60 - Go to item: my-hr
+2020-12-27 21:46:13 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 21:46:18 INFO  TemplatePage:60 - Go to item: timeline
+2020-12-27 21:46:18 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 21:46:43 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:46:43 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 21:46:45 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:46:48 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:46:48 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 21:46:48 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 21:46:48 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 21:46:48 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 21:46:56 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:46:56 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:51:27 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:51:29 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:51:32 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:51:32 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:51:52 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:51:54 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:51:57 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:51:57 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:52:04 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:52:04 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 21:52:05 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 21:52:05 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 21:52:07 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 21:52:07 INFO  CorrosivesPage:10 - Page is initialized!
+2020-12-27 21:52:08 INFO  TemplatePage:60 - Go to item: parts-service
+2020-12-27 21:52:08 INFO  PartsServicePage:10 - Page is initialized!
+2020-12-27 21:52:10 INFO  TemplatePage:60 - Go to item: my-hr
+2020-12-27 21:52:10 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 21:52:15 INFO  TemplatePage:60 - Go to item: timeline
+2020-12-27 21:52:15 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 21:52:33 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:52:33 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 21:52:36 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:52:39 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 21:52:39 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 21:52:39 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 21:52:39 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 21:52:39 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 21:52:47 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:52:47 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:54:01 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:54:03 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:54:09 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:54:09 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:54:09 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:54:09 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 21:56:05 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 21:56:07 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 21:56:13 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 21:56:13 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 21:56:19 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 21:56:19 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 21:56:20 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 21:56:20 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 21:56:42 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 21:56:42 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 22:00:20 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 22:00:22 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 22:00:26 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 22:00:26 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 22:00:40 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:00:40 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 22:00:42 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 22:00:42 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 22:00:43 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 22:00:43 INFO  CorrosivesPage:10 - Page is initialized!
+2020-12-27 22:00:44 INFO  TemplatePage:60 - Go to item: parts-service
+2020-12-27 22:00:44 INFO  PartsServicePage:10 - Page is initialized!
+2020-12-27 22:00:46 INFO  TemplatePage:60 - Go to item: my-hr
+2020-12-27 22:00:46 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 22:00:49 INFO  TemplatePage:60 - Go to item: timeline
+2020-12-27 22:00:49 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 22:01:13 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:01:13 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 22:01:25 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:01:25 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 22:01:25 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 22:01:25 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 22:01:25 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 22:01:26 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:01:39 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 22:01:39 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 22:03:55 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 22:03:57 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 22:04:00 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 22:04:00 INFO  AbstractTest:25 - Open URL: 
+2020-12-27 22:04:12 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:04:12 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 22:04:12 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 22:04:12 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 22:04:17 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 22:04:17 INFO  AbstractTest:36 - Driver is destroyed!
+2020-12-27 22:04:40 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 22:04:42 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 22:04:46 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 22:04:46 INFO  AbstractTest:24 - Open URL: 
+2020-12-27 22:04:51 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:04:51 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 22:04:52 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 22:04:52 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 22:04:54 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 22:04:54 INFO  CorrosivesPage:10 - Page is initialized!
+2020-12-27 22:04:55 INFO  TemplatePage:60 - Go to item: parts-service
+2020-12-27 22:04:55 INFO  PartsServicePage:10 - Page is initialized!
+2020-12-27 22:04:57 INFO  TemplatePage:60 - Go to item: my-hr
+2020-12-27 22:04:57 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 22:05:03 INFO  TemplatePage:60 - Go to item: timeline
+2020-12-27 22:05:03 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 22:05:26 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:05:26 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 22:05:27 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:05:27 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 22:05:27 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 22:05:27 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 22:05:27 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 22:05:28 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:05:31 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 22:05:31 INFO  AbstractTest:35 - Driver is destroyed!
+2020-12-27 22:06:00 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 22:06:02 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 22:06:07 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 22:06:07 INFO  AbstractTest:24 - Open URL: 
+2020-12-27 22:06:13 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:06:13 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 22:06:13 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 22:06:13 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 22:06:13 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 22:10:45 INFO  DriverInitializer:26 - initialization Driver
+2020-12-27 22:10:47 INFO  DriverInitializer:28 - Driver is configured
+2020-12-27 22:10:55 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 22:10:55 INFO  AbstractTest:24 - Open URL: 
+2020-12-27 22:11:01 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:11:01 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 22:11:02 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 22:11:02 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 22:11:04 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 22:11:04 INFO  CorrosivesPage:10 - Page is initialized!
+2020-12-27 22:11:05 INFO  TemplatePage:60 - Go to item: parts-service
+2020-12-27 22:11:05 INFO  PartsServicePage:10 - Page is initialized!
+2020-12-27 22:11:07 INFO  TemplatePage:60 - Go to item: my-hr
+2020-12-27 22:11:07 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 22:11:17 INFO  TemplatePage:60 - Go to item: timeline
+2020-12-27 22:11:17 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 22:11:36 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:11:36 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 22:11:37 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:11:37 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 22:11:37 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 22:11:37 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 22:11:37 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 22:11:39 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:11:41 INFO  DriverWebService:63 - Destroy driver...
+2020-12-27 22:11:41 INFO  AbstractTest:35 - Driver is destroyed!
+2020-12-27 22:17:37 INFO  DriverInitializer:26 - initialization Driver
+2020-12-27 22:17:40 INFO  DriverInitializer:28 - Driver is configured
+2020-12-27 22:17:46 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 22:17:46 INFO  AbstractTest:24 - Open URL: 
+2020-12-27 22:18:10 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:18:10 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 22:18:10 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 22:18:10 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 22:18:10 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 22:18:11 INFO  DriverWebService:68 - Destroy driver...
+2020-12-27 22:18:11 INFO  AbstractTest:35 - Driver is destroyed!
+2020-12-27 22:18:42 INFO  DriverInitializer:26 - initialization Driver
+2020-12-27 22:18:44 INFO  DriverInitializer:28 - Driver is configured
+2020-12-27 22:18:47 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 22:18:47 INFO  AbstractTest:24 - Open URL: 
+2020-12-27 22:18:51 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:18:51 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 22:18:51 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 22:18:51 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 22:18:51 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 22:18:53 INFO  DriverWebService:68 - Destroy driver...
+2020-12-27 22:18:53 INFO  AbstractTest:35 - Driver is destroyed!
+2020-12-27 22:20:09 INFO  DriverInitializer:26 - initialization Driver
+2020-12-27 22:20:11 INFO  DriverInitializer:28 - Driver is configured
+2020-12-27 22:20:18 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 22:20:18 INFO  AbstractTest:24 - Open URL: 
+2020-12-27 22:20:23 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:20:23 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 22:20:23 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 22:20:23 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 22:20:23 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 22:20:25 INFO  DriverWebService:68 - Destroy driver...
+2020-12-27 22:20:25 INFO  AbstractTest:30 - Driver is destroyed!
+2020-12-27 22:23:09 INFO  DriverInitializer:26 - initialization Driver
+2020-12-27 22:23:11 INFO  DriverInitializer:28 - Driver is configured
+2020-12-27 22:23:22 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 22:23:22 INFO  AbstractTest:24 - Open URL: 
+2020-12-27 22:23:23 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:23:23 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 22:23:48 INFO  DriverWebService:68 - Destroy driver...
+2020-12-27 22:23:48 INFO  AbstractTest:30 - Driver is destroyed!
+2020-12-27 22:25:34 INFO  DriverInitializer:26 - initialization Driver
+2020-12-27 22:25:36 INFO  DriverInitializer:28 - Driver is configured
+2020-12-27 22:25:39 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 22:25:39 INFO  AbstractTest:24 - Open URL: 
+2020-12-27 22:25:42 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:25:42 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 22:25:43 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 22:25:43 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 22:25:45 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 22:25:45 INFO  CorrosivesPage:10 - Page is initialized!
+2020-12-27 22:25:46 INFO  TemplatePage:60 - Go to item: parts-service
+2020-12-27 22:25:46 INFO  PartsServicePage:10 - Page is initialized!
+2020-12-27 22:25:48 INFO  TemplatePage:60 - Go to item: my-hr
+2020-12-27 22:25:48 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 22:25:53 INFO  TemplatePage:60 - Go to item: timeline
+2020-12-27 22:25:53 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 22:26:13 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:26:13 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 22:26:14 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:26:18 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:26:18 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 22:26:18 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 22:26:18 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 22:26:18 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 22:26:26 INFO  DriverWebService:68 - Destroy driver...
+2020-12-27 22:26:26 INFO  AbstractTest:30 - Driver is destroyed!
+2020-12-27 22:30:12 INFO  DriverInitializer:26 - initialization Driver
+2020-12-27 22:30:14 INFO  DriverInitializer:28 - Driver is configured
+2020-12-27 22:30:18 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 22:30:18 INFO  AbstractTest:24 - Open URL: 
+2020-12-27 22:30:27 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:30:28 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 22:30:29 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 22:30:54 INFO  DriverWebService:69 - Destroy driver...
+2020-12-27 22:30:54 INFO  AbstractTest:30 - Driver is destroyed!
+2020-12-27 22:31:35 INFO  DriverInitializer:26 - initialization Driver
+2020-12-27 22:31:37 INFO  DriverInitializer:28 - Driver is configured
+2020-12-27 22:31:40 INFO  DriverWebService:25 - Open Page: http://qa.yotec.net/
+2020-12-27 22:31:40 INFO  AbstractTest:24 - Open URL: 
+2020-12-27 22:31:46 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:31:47 INFO  TemplatePage:60 - Go to item: future-focus
+2020-12-27 22:31:48 INFO  TemplatePage:60 - Go to item: corrosives
+2020-12-27 22:31:49 INFO  TemplatePage:60 - Go to item: parts-service
+2020-12-27 22:31:51 INFO  TemplatePage:60 - Go to item: my-hr
+2020-12-27 22:32:00 INFO  TemplatePage:60 - Go to item: timeline
+2020-12-27 22:32:22 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:32:24 INFO  TemplatePage:60 - Go to item: dealer
+2020-12-27 22:32:24 INFO  DealerLocationPage:15 - send name: Country
+2020-12-27 22:32:24 INFO  DealerLocationPage:21 - check type: Sales
+2020-12-27 22:32:24 INFO  DealerLocationPage:21 - check type: Service
+2020-12-27 22:32:24 INFO  DealerLocationPage:21 - check type: Warranty
+2020-12-27 22:32:26 INFO  TemplatePage:60 - Go to item: manufacturing-safety
+2020-12-27 22:32:29 INFO  DriverWebService:69 - Destroy driver...
+2020-12-27 22:32:29 INFO  AbstractTest:30 - Driver is destroyed!
