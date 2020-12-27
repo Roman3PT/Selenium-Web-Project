@@ -1,9 +1,11 @@
 package com.Roman3PT;
 
 import com.Roman3PT.assertion.CustomAssertion;
+import com.Roman3PT.enums.LocationType;
 import com.Roman3PT.page.*;
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import providers.DealerLocationProvider;
 
 import static com.Roman3PT.enums.NavigationMenu.*;
 import static com.Roman3PT.page.TemplatePage.*;
@@ -51,5 +53,16 @@ public class YotecMainTest extends AbstractTest {
         DealerPage dealerPage = new DealerPage();
         CustomAssertion.assertURL(DEALER.getStr(), dealerPage.getCurrentURL());
         goHome();
+    }
+
+    @Test(dataProvider = "salesCountry", dataProviderClass = DealerLocationProvider.class)
+    public void dealerLocation(String companyName, LocationType[] types, Integer count) {
+        goToPage(DEALER);
+        DealerLocationPage dealerLocationPage = new DealerLocationPage();
+        dealerLocationPage.sendSearch(companyName);
+        for (LocationType type : types) {
+            dealerLocationPage.checkLocationType(type);
+        }
+        Assert.assertEquals(dealerLocationPage.getCountCompany(), count);
     }
 }
