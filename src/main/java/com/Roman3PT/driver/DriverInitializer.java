@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
  */
 public abstract class DriverInitializer {
 
-    protected WebDriver driver;
+    protected static WebDriver driver;
 
     private static final Logger logger = Logger.getLogger(DriverInitializer.class);
 
@@ -18,7 +18,7 @@ public abstract class DriverInitializer {
     private static final String browserPath = "src/main/resources/chromedriver.exe";
 
 
-    public DriverInitializer() {
+    public void initializeDriver() {
         System.setProperty(browserName, browserPath);
         driver = new ChromeDriver();
         logger.info("initialization Driver");
@@ -30,6 +30,6 @@ public abstract class DriverInitializer {
      * This method perform configuration of WebDriver
      */
     private void configure() {
-        driver.manage().window().fullscreen();
+        driver.manage().window().maximize();
     }
 }
