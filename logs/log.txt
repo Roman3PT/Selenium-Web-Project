@@ -1,0 +1,40 @@
+2020-12-27 19:41:47 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 19:41:49 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 19:41:54 INFO  DriverWebService:24 - Open Page: http://qa.yotec.net/
+2020-12-27 19:41:54 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 19:43:46 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 19:43:48 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 19:43:51 INFO  DriverWebService:24 - Open Page: http://qa.yotec.net/
+2020-12-27 19:43:51 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 19:44:03 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 19:44:05 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 19:44:13 INFO  DriverWebService:24 - Open Page: http://qa.yotec.net/
+2020-12-27 19:44:13 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 19:44:18 INFO  TemplatePage:49 - Go to item: my-hr
+2020-12-27 19:44:18 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 19:44:25 INFO  TemplatePage:49 - Go to item: timeline
+2020-12-27 19:44:25 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 19:44:39 INFO  TemplatePage:49 - Go to item: dealer
+2020-12-27 19:44:39 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 19:44:48 INFO  DriverWebService:51 - Destroy driver...
+2020-12-27 19:44:48 INFO  AbstractTest:27 - Driver is destroyed!
+2020-12-27 19:47:16 INFO  DriverInitializer:24 - initialization Driver
+2020-12-27 19:47:18 INFO  DriverInitializer:26 - Driver is configured
+2020-12-27 19:47:21 INFO  DriverWebService:24 - Open Page: http://qa.yotec.net/
+2020-12-27 19:47:21 INFO  AbstractTest:21 - Open URL: 
+2020-12-27 19:47:28 INFO  TemplatePage:49 - Go to item: manufacturing-safety
+2020-12-27 19:47:28 INFO  ManufacturingSafetyPage:10 - Page is initialized!
+2020-12-27 19:47:29 INFO  TemplatePage:49 - Go to item: future-focus
+2020-12-27 19:47:29 INFO  FutureFocusPage:10 - Page is initialized!
+2020-12-27 19:47:30 INFO  TemplatePage:49 - Go to item: corrosives
+2020-12-27 19:47:30 INFO  CorrosivesPage:10 - Page is initialized!
+2020-12-27 19:47:32 INFO  TemplatePage:49 - Go to item: parts-service
+2020-12-27 19:47:32 INFO  PartsServicePage:10 - Page is initialized!
+2020-12-27 19:47:34 INFO  TemplatePage:49 - Go to item: my-hr
+2020-12-27 19:47:34 INFO  BenefitsPage:10 - Page is initialized!
+2020-12-27 19:47:41 INFO  TemplatePage:49 - Go to item: timeline
+2020-12-27 19:47:41 INFO  TimeLinePage:10 - Page is initialized!
+2020-12-27 19:48:01 INFO  TemplatePage:49 - Go to item: dealer
+2020-12-27 19:48:01 INFO  DealerPage:10 - Page is initialized!
+2020-12-27 19:48:01 INFO  DriverWebService:51 - Destroy driver...
+2020-12-27 19:48:01 INFO  AbstractTest:27 - Driver is destroyed!
